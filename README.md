@@ -16,7 +16,7 @@ surgical applications, multidebriders.
 - Represented the company at national medical congresses and surgical
 demonstrations.
 
-Healthcare Software Consultant @ iKnowHealth SA
+**Healthcare Software Consultant @ iKnowHealth SA (February 2023 - Present)** 
 - Provide technical support and remote troubleshooting for RIS/PACS platforms to
 hospitals and clinics.
 - Conduct software demos and training sessions for radiologists, IT staff, and clinical
