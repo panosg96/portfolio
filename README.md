@@ -3,7 +3,7 @@
 #### Technical Skills: Python, MATLAB, SQL, Blender, RIS/PACS, Microsoft Office Suite 
 
 ## Education
-**Integrated Master's Degree in Biomedical Engineering, MSCi**\n
+**Integrated Master's Degree in Biomedical Engineering, MSCi**
 University of West Attica, Greece
 
 ## Work Experience
