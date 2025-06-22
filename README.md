@@ -3,8 +3,8 @@
 #### Technical Skills: Python, MATLAB, SQL, Blender, RIS/PACS, Microsoft Office Suite 
 
 ## Education
-**Integrated Master's Degree in Biomedical Engineering, MSCi**
-*University of West Attica, Greece*
+**Integrated Master's Degree in Biomedical Engineering, MSCi** | University of West Attica
+
 
 ## Work Experience
 **Application Specialist - Gastroenterology, Surgical and ENT Equipment @ Olympus Medical (via Proton SA)(December 2021 - January 2024)**
