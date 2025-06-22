@@ -27,4 +27,12 @@ efficiency.
 
 ### Projects
 **Design and development of image processing and analysis software for microscopy applications**
-As part of my Biomedical Engineering thesis, the aim of this proejct was to 
+
+https://polynoe.lib.uniwa.gr/xmlui/handle/11400/1854
+
+As part of my Biomedical Engineering thesis, the aim of this project was to create a software that detects astrocytoma (a type of brain cancer) in histopathological images obtained through a microscope. Through a multi level process of image segmentation and process, feature extraction, training through exhaustive search (Leave-One-Out) and with the combination of 3 different classifiers (kNN, Bayesian and a Probabilistic Neural Network) for majority voting, the results that came out had quite good accuracy. 
+
+
+
+
+
