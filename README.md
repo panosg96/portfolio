@@ -2,11 +2,11 @@
 
 #### Technical Skills: Python, MATLAB, SQL, Blender, RIS/PACS, Microsoft Office Suite 
 
-### Education
+## Education
 **Integrated Master's Degree in Biomedical Engineering, MSCi**
 University of West Attica, Greece
 
-### Work Experience
+## Work Experience
 **Application Specialist - Gastroenterology, Surgical and ENT Equipment @ Olympus Medical (via Proton SA)(December 2021 - January 2024)**
 - Delivered onsite and remote clinical support during endoscopic and surgical
 procedures.
@@ -25,7 +25,7 @@ personnel.
 - Develop Python scripts to automate configuration tasks and improve deployment
 efficiency.
 
-### Projects
+## Projects
 **Design and development of image processing and analysis software for microscopy applications**
 
 https://polynoe.lib.uniwa.gr/xmlui/handle/11400/1854
