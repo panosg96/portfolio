@@ -4,7 +4,7 @@
 and healthcare consulting. Strong background in clinical support, remote troubleshooting, and user
 technical training across hospitals and clinics. Skilled in SQL, Python, MATLAB and system
 integrations. Currently contributing to the AI/ML development team at iKnowHealth, building tools
-for medical imaging, while mainting client support responsibilities as a consultant.**
+for medical imaging, while maintaining client support responsibilities as a consultant.**
 
 #### Technical Skills: Python, MATLAB, SQL, Blender, RIS/PACS, Microsoft Office Suite 
 
