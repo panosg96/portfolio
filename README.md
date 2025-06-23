@@ -1,4 +1,6 @@
-# Biomedical Engineer
+# Panagiotis Goulas
+
+## Biomedical Engineer
 
 **Multilingual Biomedical Engineer with hands-on experience in RIS/PACS systems, medical imaging,
 and healthcare consulting. Strong background in clinical support, remote troubleshooting, and user
